@@ -27,7 +27,7 @@ Multiplayer card game with real-time WebSocket connections
 
 ## Contacts
   <p>
-    <a href="https://t.me/yourusername" target="_blank">
+    <a href="https://t.me/Ilya_Takhtay" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <a href="mailto:i.tahtaj@gmail.com">
