@@ -22,5 +22,5 @@
 ## Highlighted
 
 ### 🎴 [Fool Game](https://github.com/IlyaTakhtay/Fool_game_for_tg)
-Multiplayer card game with real-time WebSocket connections  
-`FastAPI` `Redis` `WebSocket` `pytest` `Docker`
+Multiplayer card game with step-by-step WebSocket connections
+`FastAPI` `Redis` `RabbitMQ` `Psogres` `WebSocket` `pytest` `Docker`
